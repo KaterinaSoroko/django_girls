@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+
+.idea/
+bin/
+lib/
+pyvenv.cfg
